@@ -1,5 +1,4 @@
 # Swinburne COS20015 - Fundamentals of Data Managerment
-Ruby Programming language is used to learn how to produce structured programs.
 
 ## Syllabus
 
@@ -19,7 +18,7 @@ Ruby Programming language is used to learn how to produce structured programs.
 | Lecture 11 | Other Languages        | [Slides](lectures/lecture_11.pdf) | - |
 
 ## Recommended Resources
-- Pine, C 2009 Learn to Program, The Pragmatic Programmer.
-- Sobkowicz, M 2015 Learn Game Programming with Ruby: Bring Your Ideas to Life with Gosu. The Pragmatic Programmer. 
-- Robertson, L.A 2014, Students Guide to Program Design, Newnes.
-- Freider, O, Frieder, G & Grossman, D. 2013 Computer Science Programming Basics in Ruby, O’Reilly Media Inc.
+- Connolly & Begg, Database Systems.
+- Elmasri & Navathe Fundamentals of Database Systems.
+- Sadalage & Fowler, NoSQL Distilled.
+- Dayley, NoSQL with MongoDB in 24 hours.
