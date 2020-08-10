@@ -1,0 +1,43 @@
+<reading_list>
+	<finished_reading>
+		<book>
+			<title>Fifty shades of grey</title>
+			<author>E.L James</author>
+			<date_read>
+				<month>May</month>
+				<year>2016</year>
+			</date_read>
+			<opinion>Did not enjoy</opinion>
+		</book>
+		<book>
+			<title>The grass is singing</title>
+			<author>Doris Lessing</author>
+			<date_read>
+				<month>June</month>
+				<year>2016</year>
+			</date_read>
+			<opinion>Enjoyed</opinion>
+		</book>
+		<book>
+			<title>A short history of nearly everything</title>
+			<author>Bill Bryson</author>
+			<date_read>
+				<month>July</month>
+				<year>2016</year>
+			</date_read>
+			<opinion>Informative</opinion>
+		</book>
+	</finished_reading>
+	<planned_reading>
+		<book>
+			<title>JSON in 24 hours</title>
+			<author>Peter Settler</author>
+			<purpose>Work</purpose>
+		</book>
+		<book>
+			<title>Miss Smilla’s feeling for snow</title>
+			<author>Peter Hoeg</author>
+			<purpose>Entertainment</purpose>
+		</book>
+	</planned_reading>
+</reading_list>
